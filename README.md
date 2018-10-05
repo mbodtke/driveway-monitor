@@ -10,9 +10,9 @@ Initial Goals:
 4) Recognize a plate from a webcam image
 
 Intermediate Goals:
-5) Set up camera for driveway
-6) Add functionality to log plate number and timestamp
+1) Set up camera for driveway
+2) Add functionality to log plate number and timestamp
 
 Stretch Goals:
-7) Tune system for better accuracy
-8) Create dashboard for visitor analysis
+1) Tune system for better accuracy
+2) Create dashboard for visitor analysis
